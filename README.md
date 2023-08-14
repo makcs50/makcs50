@@ -1,9 +1,13 @@
 ### 👨‍💻 Привет, мир!
+<br/>
+
 
 
 
 👋 Меня зовут Абдуллах! и я фронтэнд разработчик!<br>
+
 🔍 Делюсь знаниями и опытом, и всегда открыт новым совместным проектам.🌐🤝
+
 
 
 🛠️ Технологии, которыми я владею:
@@ -27,8 +31,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 </div>
 📫 Свяжитесь со мной:
-<br>
-
+<br/>
 <div>
   <a href="https://t.me/Lechiev_Abdullah">
   <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-grean?style=for-the-badge&logo=Telegram&logoColor=white" />
